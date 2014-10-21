@@ -1,5 +1,7 @@
 nginx
 =====
 
-Dockerfile & fichier de conf pour des tests rapides en interne de proxy et clustering
-La conf étant livrée avec des Ip fixes ... 
++ Dockerfile & fichiers de conf
+
+Build Automated, image docker à des fins de tests internes (proxy)
+(conf livrée avec des Ip fixes)
